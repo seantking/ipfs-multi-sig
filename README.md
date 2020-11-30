@@ -1,5 +1,5 @@
 ## Summary
-This POC describes the typical user flow of a web application that uses cosmJS to sign and broadcast multi-signature transactions. 
+This POC demonstrates the user flows of a multi-signature transaction. Read the RFC for further context [here](https://www.notion.so/RFC-IPFS-MultiSig-b23b1e3ac7e04ce4bfb92d8595ec1135).
 
 ## Commands
 
