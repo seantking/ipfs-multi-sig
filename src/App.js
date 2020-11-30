@@ -1,6 +1,6 @@
 import React from "react";
 import { Link, Route, Switch, Redirect } from "react-router-dom";
-import { AppBar, Tab, Tabs, Grid } from "@material-ui/core";
+import { AppBar, Tab, Tabs } from "@material-ui/core";
 import Transaction from "./pages/transaction";
 import Broadcast from "./pages/broadcast";
 import Sign from "./pages/sign";
