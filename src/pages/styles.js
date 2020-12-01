@@ -6,7 +6,7 @@ const styles = (theme) => ({
     margin: "10px",
   },
   textField: {
-    width: "50vw",
+    width: "100%",
   },
   logo: {
     marginTop: "50px",

@@ -14,7 +14,7 @@ const App = () => {
 
   return (
     <>
-      <AppBar className={{ background: "black" }} position="static">
+      <AppBar position="static">
         <Tabs
           value={value}
           onChange={handleChange}
